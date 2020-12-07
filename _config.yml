@@ -6,7 +6,7 @@
 name: Kfir Nevo
 
 # Short bio or description (displayed in the header)
-description: Developer from Israel
+description: Developer from Israel. The real Kfiros, definitely not the fake Kfiros... You'll never walk alone.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/25119408?s=60&v=4
@@ -19,11 +19,11 @@ avatar: https://avatars2.githubusercontent.com/u/25119408?s=60&v=4
 footer-links:
   dribbble:
   email:
-  facebook: Kfir Nevo
+  facebook: facebook.com/realKfiros
   flickr:
   github: barryclark/jekyll-now
   instagram: realkfiros
-  linkedin:
+  linkedin: realKfiros
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: realKfiros
